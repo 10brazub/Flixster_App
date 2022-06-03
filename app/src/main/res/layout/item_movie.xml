@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
 
     <ImageView
         android:id="@+id/ivPoster"
@@ -22,8 +22,8 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPoster"
-        android:textSize="24sp"
-        android:text="Fast and Furious Presents Hobbs and Shaw" />
+        android:text="Fast and Furious Presents Hobbs and Shaw"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/tvOverview"
