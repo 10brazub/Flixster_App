@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 JSONObject jsonObject = json.jsonObject;
                 try {
                     JSONArray results = jsonObject.getJSONArray("results");
-                    Log.i(TAG, "Results: " + results.toString());
+                    Log.i(TAG, "Results: " + results);
                     movies = Movie.fromJsonArray(results);
                     Log.i(TAG, "Movies: " + movies.size());
 
