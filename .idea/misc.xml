@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout-land/item_movie.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26441800350355404" />
+        <entry key="app/src/main/res/layout/activity_movie_details.xml" value="0.3221961735471284" />
         <entry key="app/src/main/res/layout/item_movie.xml" value="0.3631834901695677" />
       </map>
     </option>
