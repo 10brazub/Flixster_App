@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76754843/173152484-3113cd9f-0aeb-4401-954a-0663abebb2a8.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/76754843/173153122-3bc26a35-3a5d-4670-b8d2-9c8f1e75e4cd.gif)
+
 
 ## Notes
 
