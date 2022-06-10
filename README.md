@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Flixster Demo](ezgif.com-gif-maker (1).gif) 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76754843/173152484-3113cd9f-0aeb-4401-954a-0663abebb2a8.gif)
 
 ## Notes
 
